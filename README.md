@@ -1,2 +1,2 @@
 # Music Suggestion Using Feature Extraction
-Suggest Similar Music Using Euclidean Feature Space Distance and Optimized Weightings
+Suggest Similar Music Using Extracted Feature Space Euclidean Distance and Optimized Weightings
